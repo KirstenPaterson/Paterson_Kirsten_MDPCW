@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Kirsten Paterson s1828151-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_roadworks"
+        android:icon="@drawable/ic_directions_car_black_24dp"
+        android:title="Roadworks"/>
+    <item
+        android:id="@+id/nav_planned"
+        android:icon="@drawable/ic_traffic_black_24dp"
+        android:title="Planned Roadworks"/>
+    <item
+        android:id="@+id/nav_incidents"
+        android:icon="@drawable/ic_warning_black_24dp"
+        android:title="Incidents"/>
+
+</menu>
